@@ -1,6 +1,13 @@
 ### Hi there 👋
+- Looking for full-time, product and UX designer positions
+- Open to collaborating on Obsidian plugin development ([some ideas in this repo](https://github.com/jsmorabito/obsidian-design))
 
-https://www.linkedin.com/in/john-morabito-27ab8674
+_Socials_
+- [My Website]()
+- [LinkedIn](https://www.linkedin.com/in/john-morabito-27ab8674)
+- [Instagram](https://www.instagram.com/johnny1093/)
+- [Pinterest](https://www.pinterest.com/jmorabito10/_saved/)
+
 <!--
 **jsmorabito/jsmorabito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
