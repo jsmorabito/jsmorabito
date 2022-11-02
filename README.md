@@ -1,4 +1,4 @@
-![Frame 9](https://user-images.githubusercontent.com/46250921/199543888-f6198aee-a862-4575-bd37-7251401b1cbc.png)
+![Frame 9](https://user-images.githubusercontent.com/46250921/199546628-a9b5387d-ba23-4bc2-ba85-78e455d06782.png)
 
 
 - Product, UX/UI Designer
