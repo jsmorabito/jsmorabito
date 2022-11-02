@@ -1,10 +1,24 @@
+![Frame 9](https://user-images.githubusercontent.com/46250921/199543888-f6198aee-a862-4575-bd37-7251401b1cbc.png)
+
+
 - Product, UX/UI Designer
-- Open to collaborating on Obsidian plugin development ([some ideas in this repo](https://github.com/jsmorabito/obsidian-design))
+  - Desktop
+  - Web
+  - Mobile 
+- My Work
+  - [Obsidian Commander Plugin](https://publish.obsidian.md/johnmorabito/Notes/Obsidian+Commander+Case+Study)
+  - Bitmint G20 Tech Demo (Case Study in Progress)
+  - [WolfPack CarPlay (Case Study in Progress)](https://publish.obsidian.md/johnmorabito/Notes/WolfPack+Apple+CarPlay+and+Android+Auto+Case+Study)
+  - [Obsidian Workspaces Plus Plugin](https://publish.obsidian.md/johnmorabito/Notes/Obsidian+Workspaces+Plus+Case+Study)
+  - [The Role of Context in Literature Reviewing Master's Thesis](https://publish.obsidian.md/johnmorabito/Notes/Managing+Context+during+Scholarly+Knowledge+Synthesis+-+Process+Patterns+and+System+Mechanics)
 - [My Website]()
 - [My Knowledge Base](https://publish.obsidian.md/johnmorabito/Home)
-  - [My Work](https://publish.obsidian.md/johnmorabito/Home#My+Work) 
 - [LinkedIn](https://www.linkedin.com/in/john-morabito-27ab8674)
 - [E-Mail](jmorabito10@gmail.com)
+
+
+![PokeGoldDemo-MSRhydon](https://user-images.githubusercontent.com/46250921/199532240-7cd5ab1c-160b-4ba9-8064-7dab8d23309a.gif)
+
 
 <!--
 **jsmorabito/jsmorabito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
