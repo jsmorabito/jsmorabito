@@ -11,7 +11,7 @@
   - [WolfPack CarPlay (Case Study in Progress)](https://publish.obsidian.md/johnmorabito/Notes/WolfPack+Apple+CarPlay+and+Android+Auto+Case+Study)
   - [Obsidian Workspaces Plus Plugin](https://publish.obsidian.md/johnmorabito/Notes/Obsidian+Workspaces+Plus+Case+Study)
   - [The Role of Context in Literature Reviewing Master's Thesis](https://publish.obsidian.md/johnmorabito/Notes/Managing+Context+during+Scholarly+Knowledge+Synthesis+-+Process+Patterns+and+System+Mechanics)
-- [My Website]()
+- [My Website](www.johnmorabito.com)
 - [My Knowledge Base](https://publish.obsidian.md/johnmorabito/Home)
 - [LinkedIn](https://www.linkedin.com/in/john-morabito-27ab8674)
 - [E-Mail](jmorabito10@gmail.com)
