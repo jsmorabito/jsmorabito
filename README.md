@@ -1,21 +1,15 @@
 ![Frame 10](https://user-images.githubusercontent.com/46250921/199635145-ecb07fd0-3a47-44de-a712-897fbbbf36ea.png)
 
+[Buy me a coffee](https://www.buymeacoffee.com/johnny1093)
 
-- Product, UX/UI Designer
-  - Desktop
-  - Web
-  - Mobile 
-- My Work
-  - [Obsidian Commander Plugin](https://publish.obsidian.md/johnmorabito/Notes/Obsidian+Commander+Case+Study)
-  - Bitmint G20 Tech Demo (Case Study in Progress)
-  - [WolfPack CarPlay (Case Study in Progress)](https://publish.obsidian.md/johnmorabito/Notes/WolfPack+Apple+CarPlay+and+Android+Auto+Case+Study)
-  - [Obsidian Workspaces Plus Plugin](https://publish.obsidian.md/johnmorabito/Notes/Obsidian+Workspaces+Plus+Case+Study)
-  - [The Role of Context in Literature Reviewing Master's Thesis](https://publish.obsidian.md/johnmorabito/Notes/Managing+Context+during+Scholarly+Knowledge+Synthesis+-+Process+Patterns+and+System+Mechanics)
+
+
+Product, UX/UI Designer ✨
+
 - [My Website](www.johnmorabito.com)
 - [My Knowledge Base](https://publish.obsidian.md/johnmorabito/Home)
 - [LinkedIn](https://www.linkedin.com/in/john-morabito-27ab8674)
 - [E-Mail](jmorabito10@gmail.com)
-- [Buy me a coffee](https://www.buymeacoffee.com/johnny1093)
 
 
 ![PokeGoldDemo-MSRhydon](https://user-images.githubusercontent.com/46250921/199532240-7cd5ab1c-160b-4ba9-8064-7dab8d23309a.gif)
