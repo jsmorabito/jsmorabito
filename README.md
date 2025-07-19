@@ -1,6 +1,8 @@
 ![Frame 10](https://user-images.githubusercontent.com/46250921/199635145-ecb07fd0-3a47-44de-a712-897fbbbf36ea.png)
 
-[Buy me a coffee](https://www.buymeacoffee.com/johnny1093)
+I fight for the users
+
+[Support](https://www.buymeacoffee.com/johnny1093)
 
 ![PokeGoldDemo-MSRhydon](https://user-images.githubusercontent.com/46250921/199532240-7cd5ab1c-160b-4ba9-8064-7dab8d23309a.gif)
 
